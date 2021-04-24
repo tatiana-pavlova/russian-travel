@@ -1,0 +1,5 @@
+.lead {
+  width: calc(100vw-296px);
+  padding: 0 148px 92px;
+  border: 1px solid red;
+}
