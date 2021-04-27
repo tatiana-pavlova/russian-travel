@@ -10,5 +10,5 @@
 * методология БЭМ
 
 
-[Ссылка на GitHub Pages]()
+[Ссылка на GitHub Pages](https://tatiana-pavlova.github.io/russian-travel/index.html)
 
