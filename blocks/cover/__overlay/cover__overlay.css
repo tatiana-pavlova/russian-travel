@@ -26,19 +26,19 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .cover__overlay {
     min-height: 640px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 800px) {
   .cover__overlay {
     min-height: 480px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 520px) {
   .cover__overlay {
     min-height: 200px;
   }
